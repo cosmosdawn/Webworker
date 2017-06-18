@@ -30,6 +30,6 @@ HTML5中新支持的多线程API实现手工制定异步任务无需浏览器‘
             }
         }
 ### 火狐浏览器运行结果，接受到返回的数据
-![Alt text](img/pingpang.PNG)
+ ![Alt text](img/pingpang.PNG)
 ### 谷歌浏览器中控制台信息，貌似是Chrome默认关闭了Webwork功能，需要手动开启，才能正常使用。
-![Alt text](img/error.PNG)
+ ![Alt text](img/error.PNG)
