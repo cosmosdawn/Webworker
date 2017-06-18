@@ -1,16 +1,16 @@
 # Webworker
 HTML5中新支持的多线程API实现手工制定异步任务无需浏览器‘等待’，提高用户体验
-        <!DOCTYPE html>
-        <html lang="en">
-        <head>
-            <meta charset="UTF-8">
-            <title>Webworker</title>
-            <script src="./manager.js"></script>
-        </head>
-        <body>
-            <p id="output"></p>
-        </body>
-        </html>
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <title>Webworker</title>
+                <script src="./manager.js"></script>
+            </head>
+            <body>
+                <p id="output"></p>
+            </body>
+            </html>
 
 在HTML页面中引入manager.js作为js执行的*主线程*
 ### manager.js代码
